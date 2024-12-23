@@ -1,0 +1,34 @@
+
+MIT License
+
+Copyright (c) 2024 Spel
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Licencja MIT
+
+Copyright (c) 2024 Spel
+
+Niniejszym zezwala się na bezpłatne korzystanie z oprogramowania i powiązanej dokumentacji (dalej „Oprogramowanie”) przez każdą osobę, która wejdzie w jego posiadanie, bez ograniczeń, w tym bez ograniczeń na prawa do używania, kopiowania, modyfikowania, łączenia, publikowania, dystrybuowania, sublicencjonowania i/lub sprzedaży kopii Oprogramowania oraz na zezwalanie osobom, którym Oprogramowanie zostało dostarczone, na to samo, z zastrzeżeniem następujących warunków:
+
+Powyższa informacja o prawach autorskich oraz niniejsza informacja o zezwoleniu muszą zostać zamieszczone we wszystkich kopiach lub istotnych częściach Oprogramowania.
+
+Oprogramowanie jest dostarczane w stanie „TAK JAK JEST”, bez jakiejkolwiek gwarancji, wyraźnej lub domniemanej, w tym bez gwarancji przydatności handlowej, przydatności do określonego celu i nienaruszalności praw. W żadnym wypadku autorzy lub posiadacze praw autorskich nie odpowiadają za jakiekolwiek roszczenia, szkody lub inne zobowiązania, zarówno w ramach umowy, deliktu czy innej podstawy prawnej, wynikające z Oprogramowania lub jego użytkowania bądź innych działań związanych z Oprogramowaniem.
